@@ -67,3 +67,8 @@ mamba env create -f env.yaml
 1. **Check results**
 
     `...`
+
+## Todo
+
+- [ ] Finish evaluation
+- [ ] Clean up repo
