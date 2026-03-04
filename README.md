@@ -62,6 +62,8 @@ mamba env create -f env.yaml
 
     Run notebook `stgan/training/training-plot.ipynb`, specifying the correct `training.log`.
 
+    ![training](./stgan/training/training-plot.png)
+
 1. **Check results**
 
     Run an evaluation as done in notebook `stgan/results_crypto.ipynb`, again using the correct output data.
