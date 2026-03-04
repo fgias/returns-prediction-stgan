@@ -1,6 +1,6 @@
-# Stock Price Anomaly Detection
+# Returns Prediction STGAN
 
-Anomaly detection for stock prices.
+Returns prediction using the STGAN architecture.
 
 ## Plan
 
@@ -61,6 +61,8 @@ mamba env create -f env.yaml
 1. **Monitor training**
 
     Run notebook `stgan/training/training-plot.ipynb`, specifying the correct `training.log`.
+
+    ![training](./stgan/training/training-plot.png)
 
 1. **Check results**
 
