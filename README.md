@@ -1,6 +1,6 @@
-# Stock Price Anomaly Detection
+# Returns Prediction STGAN
 
-Anomaly detection for stock prices.
+Returns prediction using the STGAN architecture.
 
 ## Plan
 
